@@ -41,7 +41,7 @@ stopwatch-app/
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/Anshika22-03/PRODIGY_WD_02.git
+   git clone https://github.com/shreyashm012/PRODIGY_WD_02.git
    
    📄 License
 This project is licensed under the MIT License.
